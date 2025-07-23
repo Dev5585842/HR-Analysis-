@@ -44,56 +44,55 @@ To show geographic data with its categories like city, country, state, and regio
 Visual Insights
 
 
-What is the count of employees in the dataset?
-Card visual.
+QWhat is the count of employees in the dataset?
+
 This visual displays the count of employees in the form of a card.
 
 
-What is the average salary of employees in the dataset?
-Card visual.
+Q What is the average salary of employees in the dataset?
+
 This visual displays the average salary of employees in the form of a card.
 
 
-How many departments are there in the dataset?
-Card visual.
+Q How many departments are there in the dataset?
+
 This visual displays the count of departments in the form of a card.
 
 
-How does the sum of salary vary with experience levels of employees in the dataset?
-Pie chart.
+Q How does the sum of salary vary with experience levels of employees in the dataset?
 This visual displays the sum of salary for each experience level in the form of a pie chart.
-How does the sum of salary vary with age groups of employees in the dataset?
-Donut chart.
+Q How does the sum of salary vary with age groups of employees in the dataset?
+
 This visual displays the sum of salary for each age group in the form of a donut chart.
 
 
-How does the total salary and count of employees vary with year in the dataset?
-Line and clustered column chart.
+Q How does the total salary and count of employees vary with year in the dataset?
+
 This visual displays the sum of salary and count of employees for each year in the form of a line and clustered column chart.
 
 
-How many employees are there from each country in the dataset?
-Slicer.
+Q How many employees are there from each country in the dataset?
+
 This visual displays a slicer to select a country and filter the data accordingly.
 
 
-What is the salary and department of each employee in the dataset?
-Table visual.
+QWhat is the salary and department of each employee in the dataset?
+
 This visual displays a table with columns for employee, sum of salary, and department.
 
 
-How does the total attendance vary with year and gender in the dataset?
-Stacked column chart.
+Q How does the total attendance vary with year and gender in the dataset?
+
 This visual displays the count of total attendance for each year and gender in the form of a stacked column chart.
 
 
-How many employees are there in each department and gender in the dataset?
-Clustered bar chart.
+Q How many employees are there in each department and gender in the dataset?
+
 This visual displays the count of employees for each department and gender in the form of a clustered bar chart.
 
 
-How can you add the company name and logo to the Power BI report?
-Text Box
+Q  How can you add the company name and logo to the Power BI report?
+
 Use the text box visual and insert the logo image and type the company name as the text.
 
 
